@@ -1,5 +1,0 @@
-
-NB-Z13-R913CMN1\Администратор
-f5C1Y0KAqd76S6vb
-
-Test-ComputerSecureChannel -Credential (Get-Credential) -repair
